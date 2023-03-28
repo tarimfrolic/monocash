@@ -1,0 +1,7 @@
+{
+  "excelPath": "wallets.xlsx",
+  "customNode": false,
+  "customNodeUrl": "http://127.0.0.1:7546",
+  "customNodeETH": false,
+  "customNodeUrlETH": "http://127.0.0.1:7546" 
+}
